@@ -3,6 +3,13 @@
 <a href="https://t.me/devops_engeener"><img align="left" alt="NetworK's Telegram" src="https://img.shields.io/badge/devops_engeener-black?style=social&logo=telegram&logoColor=blue" /></a>
 
 <!--
+Иконки тут:
+https://simpleicons.org/?q=telegra
+
+Бейджи тут:
+https://shields.io/category/social
+
+
 <a href="https://t.me/devops_tech_bot?start"><img align="left" alt="DevOps Tech Helper bot" src="https://img.shields.io/badge/devops_tech_bot-black?style=social&logo=telegram&logoColor=blue" /></a> <a href="https://github.com/ziwork/devops_tech_bot"><img align="left" alt="GitHub Keenetic DNS bot" src="https://img.shields.io/badge/repo-black?style=social&logo=github&logoColor=blue" /></a>
 
 
