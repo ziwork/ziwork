@@ -18,7 +18,7 @@ https://shields.io/category/social
 <!--
 <a href="https://www.linkedin.com/in/znetwork/"><img align="left" alt="NetworK's LinkedIN" src="https://img.shields.io/badge/@znetwork-black?style=social&logo=linkedin&logoColor=blue" /></a>
 -->
-![](https://visitor-badge.glitch.me/badge?page_id=ziwork.ziwork)
+![](https://komarev.com/ghpvc/?username=ziwork) &nbsp;&nbsp;&nbsp;&nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ziwork.ziwork)
 <br/>
 
 ### My technology stack 
